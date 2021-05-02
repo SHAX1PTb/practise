@@ -1,7 +1,7 @@
 package com.learnreactivespring;
 
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 import reactor.core.publisher.Flux;
 
 public class FluxandMonoTest {

@@ -137,9 +137,17 @@
 			<artifactId>embedded-cassandra-test</artifactId>
 			<version>1.0.8</version>
 		</dependency>
-
-
-
+		<dependency>
+			<artifactId>junit</artifactId>
+			<groupId>junit</groupId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<artifactId>testng</artifactId>
+			<groupId>org.testng</groupId>
+			<version>RELEASE</version>
+			<scope>compile</scope>
+		</dependency>
 
 
 	</dependencies>
